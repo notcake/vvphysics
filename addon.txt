@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"        "VVPhysics"
+	"version"     "1.00"
+	"author_name" "Metastructures Incorporated"
+	"author_url"  ""
+	"info"        "My coffee machine is a combined cycle gas turbine."
+	"override"    "0"
+}
